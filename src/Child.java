@@ -38,6 +38,8 @@ public class Child extends Parent {
      *  Optional Specifiers
      *    1) Final Method can not be over ridden
      *    2) Static Method can not be over ridden
+     *    3) Over Ridden method can be final
+     *    4) Over ridden method can not be static
      *
      *    Abstract method can not be static or final
      *
